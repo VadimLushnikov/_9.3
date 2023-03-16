@@ -1,0 +1,19 @@
+-- insert into netology.CUSTOMERS(name, surname, age, phone_number) VALUES ('Александ','Сидоров', 36,+79099895445);
+-- insert into netology.CUSTOMERS(name, surname, age, phone_number) VALUES ('Александ','Петров', 42,+79089795445);
+-- insert into netology.CUSTOMERS(name, surname, age, phone_number) VALUES ('Александ','Иванов', 30,+79099795455);
+-- insert into netology.CUSTOMERS(name, surname, age, phone_number) VALUES ('АЛЕКСЕЙ','Шмелёв', 32,+79089895645);
+--
+--
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('27.12.2022',1, 'Хлеб',30);
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('28.12.2022',2, 'Хлеб',30);
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('29.12.2022',3, 'Хлеб',30);
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('30.12.2022',4, 'Хлеб',30);
+--
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('27.11.2022',1, 'Мясо',230);
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('28.11.2022',2, 'Мясо',460);
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('29.11.2022',3, 'Мясо',230);
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('30.11.2022',4, 'Мясо',230);
+--
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('17.11.2022',1, 'Молоко',70);
+-- insert into netology.ORDERS(date, customer_id, product_name, amount) VALUES ('20.11.2022',4, 'Молоко',140)
+;
